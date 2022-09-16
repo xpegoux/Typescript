@@ -1,0 +1,12 @@
+{
+  "name": "pizzaria",
+  "version": "1.0.0",
+  "description": "factory method for pizzarias",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Erivaldo Barros",
+  "license": "ISC"
+}
