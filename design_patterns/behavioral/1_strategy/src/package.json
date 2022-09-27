@@ -1,0 +1,12 @@
+{
+  "name": "1_strategy",
+  "version": "1.0.0",
+  "description": "Exemplo de aplicação do strategy para diferentes tipos de fretes",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "https://www.youtube.com/watch?v=WPdrnuSHAQs",
+  "license": "ISC"
+}
