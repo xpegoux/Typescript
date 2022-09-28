@@ -1,2 +1,2 @@
-# NodeJS Tests
-###Exercícios didáticos resolvidos em node.js
+# Typescript Tests
+### Exercícios didáticos resolvidos em typescript
