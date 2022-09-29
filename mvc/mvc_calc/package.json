@@ -1,0 +1,15 @@
+{
+  "name": "mvc_calc",
+  "version": "1.0.0",
+  "description": "Exemplo de calculadora no modelo MVC",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Erivaldo Barros",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4"
+  }
+}
